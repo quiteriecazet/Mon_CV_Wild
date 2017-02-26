@@ -1,0 +1,121 @@
+#content {
+    width: 70%;
+    min-width: 150px;
+    margin: 10px;
+    padding: 30px;
+    border: 1px black solid;
+    background-color: #68BBFF;
+}
+
+
+img {
+    display: block;
+    width: 150px;
+    border-radius: 50%;
+    border-style: double;
+    border-color: solid;
+    border-width: 4px;
+    margin: 20px auto;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+#header {
+    border: 1px black solid;
+    font-family: 'Arvo', serif;
+    text-align: center;
+    color: rgb(9, 30, 45);
+    background-color: #f4dbbc;
+    margin: 5px;
+}
+
+
+h1 {
+    font-family: 'Arvo', serif;
+}
+
+
+h2 {
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+
+
+#container {
+    display: inline-block;
+    border: 1px black solid;
+    background-color: #f4dbbc;
+    padding: auto;
+    margin: 5px;
+}
+
+#left-box {
+    float: left;
+    border: 1px black solid;
+    background-color: white;
+    width: 30%;
+    margin: 20px 0px 20px 25px;
+
+
+}
+
+
+#right-box {
+    margin: 20px 25px 20px -10px;
+    padding: auto;
+    background-color: rgb(9, 30, 45);
+    float: right;
+    border: 1px black solid;
+    width: 55%;
+}
+
+#experiences-box {
+    background-color: white;
+    border: 1px black solid;
+    text-align: justify;
+    width: 80%;
+    margin: 20px;
+    padding:20px;
+
+}
+
+.experience {
+    width: 90%;
+    border: 1px black solid;
+    padding: 10px;
+    text-align: justify;
+    margin: 10px;
+    background-color: #f4dbbc;
+}
+
+#studies-box {
+    background-color: white;
+    border: 1px black solid;
+    width: 80%;
+    margin: 20px;
+    padding: 20px;
+}
+
+.study {
+    width: 90%;
+    border: 1px black solid;
+    padding: 10px;
+    text-align: justify;
+    margin: 10px;
+    background-color: #f4dbbc;
+}
+
+
+#footer {
+    border: 1px black solid;
+    background-color: #f4dbbc;
+    text-align: center;
+    margin: 5px;
+    height: 50px;
+}
+
+	
